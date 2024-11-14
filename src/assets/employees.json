@@ -1,0 +1,17 @@
+[
+    {
+      "EmployeeID": 1,
+      "Name": "John Doe",
+      "City": "New York",
+      "Gender": "Male",
+      "Birthdate": "1990-01-01"
+    },
+    {
+      "EmployeeID": 2,
+      "Name": "Jane Smith",
+      "City": "Los Angeles",
+      "Gender": "Female",
+      "Birthdate": "1985-05-15"
+    }
+  ]
+  
